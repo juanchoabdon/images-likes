@@ -32,7 +32,7 @@ class  UsersList extends Component {
   render() {
     return (
       <section className="UsersList">
-        <img  className="brand" src="https://pbs.twimg.com/media/CWtf9fRXAAIbSEg.jpg"  alt="brand"/>
+        <img  className="brand" src="images/logo.png" alt="brand"/>
         <Table className="striped">
             <thead>
                 <tr>

@@ -29,7 +29,7 @@ class Login extends Component {
   render() {
     return (
       <section className="Login">
-        <img src="https://pbs.twimg.com/media/CWtf9fRXAAIbSEg.jpg"  alt="brand"/>
+        <img src="images/logo.png"  alt="brand"/>
         <CardPanel className="black-text center">
           <Row>
             <form onSubmit={this.login}>

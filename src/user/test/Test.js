@@ -45,7 +45,7 @@ class Test extends Component {
   render() {
     return (
       <section className="Test">
-        <img  className="brand" src="https://pbs.twimg.com/media/CWtf9fRXAAIbSEg.jpg" alt="brand"/>
+        <img  className="brand" src="images/logo.png" alt="brand"/>
         <div className="test-cards">
         { this.state.images.map((image,index) =>
         
