@@ -1,0 +1,59 @@
+.Login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.Login img {
+  width: 200px;
+}
+
+.test-cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  height: 80vh;
+  padding: 50px;
+}
+
+.test-cards img {
+  width: 500px;
+  height: 300px;
+}
+
+.test-cards .card-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around
+}
+
+.Test {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.Test .brand {
+  max-width: 200px;
+  align-self: center
+}
+
+.UsersList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 50px;
+  align-items: stretch;
+}
+
+.UsersList .brand {
+  max-width: 200px;
+}
+
+.carousel .carousel-item img {
+  width: 160%;
+}
+
