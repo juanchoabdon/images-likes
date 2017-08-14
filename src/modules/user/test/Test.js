@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { CardPanel, Button, Row } from 'react-materialize';
 import * as firebase from 'firebase';
-import api from '../../api';
+import api from '../../../api';
 
 class Test extends Component {
     constructor(props) {
